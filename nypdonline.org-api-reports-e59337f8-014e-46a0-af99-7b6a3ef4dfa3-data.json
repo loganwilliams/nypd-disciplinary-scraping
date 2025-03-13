@@ -77274,21 +77274,6 @@
         "value": "0"
       },
       {
-        "filterValue": "ALLEG942346",
-        "value": "2"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "5/2/2024 12:00:00 AM"
-      },
-      {
-        "value": "0"
-      },
-      {
         "filterValue": "ALLEG943025",
         "value": "1"
       }
