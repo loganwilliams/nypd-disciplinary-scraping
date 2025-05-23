@@ -8827,7 +8827,7 @@
       },
       {
         "filterValue": "947133",
-        "value": "8"
+        "value": "4"
       },
       {
         "value": "0"
@@ -16298,6 +16298,21 @@
       {
         "filterValue": "944028",
         "value": "2"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "8/6/2018 12:00:00 AM"
+      },
+      {
+        "filterValue": "944594",
+        "value": "3"
       },
       {
         "value": "0"
