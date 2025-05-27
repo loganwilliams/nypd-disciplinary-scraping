@@ -16683,21 +16683,6 @@
     "filterKey": "@TAXID",
     "columns": [
       {
-        "value": "10/22/2018 12:00:00 AM"
-      },
-      {
-        "filterValue": "949822",
-        "value": "2"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
         "value": "10/23/2018 12:00:00 AM"
       },
       {
@@ -86560,6 +86545,21 @@
       },
       {
         "filterValue": "ALLEG967741",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "8/8/2024 12:00:00 AM"
+      },
+      {
+        "value": "0"
+      },
+      {
+        "filterValue": "ALLEG968098",
         "value": "1"
       }
     ]
