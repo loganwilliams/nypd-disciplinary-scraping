@@ -34146,6 +34146,21 @@
         "value": "7/14/2022 12:00:00 AM"
       },
       {
+        "filterValue": "948331",
+        "value": "3"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "7/14/2022 12:00:00 AM"
+      },
+      {
         "value": "0"
       },
       {
@@ -51611,6 +51626,21 @@
       {
         "filterValue": "ALLEG963659",
         "value": "1"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "2/9/2023 12:00:00 AM"
+      },
+      {
+        "filterValue": "964916",
+        "value": "2"
+      },
+      {
+        "value": "0"
       }
     ]
   },
