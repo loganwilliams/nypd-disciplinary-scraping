@@ -15123,6 +15123,21 @@
     "filterKey": "@TAXID",
     "columns": [
       {
+        "value": "2/28/2018 12:00:00 AM"
+      },
+      {
+        "filterValue": "961381",
+        "value": "5"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
         "value": "3/4/2018 12:00:00 AM"
       },
       {
@@ -33888,21 +33903,6 @@
     "filterKey": "@TAXID",
     "columns": [
       {
-        "value": "7/7/2022 12:00:00 AM"
-      },
-      {
-        "value": "0"
-      },
-      {
-        "filterValue": "ALLEG965968",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
         "value": "7/11/2022 12:00:00 AM"
       },
       {
@@ -37240,6 +37240,21 @@
       },
       {
         "filterValue": "ALLEG958911",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "8/10/2022 12:00:00 AM"
+      },
+      {
+        "value": "0"
+      },
+      {
+        "filterValue": "ALLEG965267",
         "value": "1"
       }
     ]
@@ -43518,6 +43533,21 @@
     "filterKey": "@TAXID",
     "columns": [
       {
+        "value": "11/4/2022 12:00:00 AM"
+      },
+      {
+        "value": "0"
+      },
+      {
+        "filterValue": "ALLEG967563",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
         "value": "11/7/2022 12:00:00 AM"
       },
       {
@@ -43616,6 +43646,21 @@
       {
         "filterValue": "ALLEG961480",
         "value": "2"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "11/9/2022 12:00:00 AM"
+      },
+      {
+        "value": "0"
+      },
+      {
+        "filterValue": "ALLEG949178",
+        "value": "1"
       }
     ]
   },
@@ -63954,21 +63999,6 @@
         "value": "0"
       },
       {
-        "filterValue": "ALLEG965968",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "9/13/2023 12:00:00 AM"
-      },
-      {
-        "value": "0"
-      },
-      {
         "filterValue": "ALLEG966465",
         "value": "2"
       }
@@ -69909,6 +69939,21 @@
         "value": "0"
       },
       {
+        "filterValue": "ALLEG965032",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "1/5/2024 12:00:00 AM"
+      },
+      {
+        "value": "0"
+      },
+      {
         "filterValue": "ALLEG966304",
         "value": "1"
       }
@@ -73374,6 +73419,21 @@
         "value": "0"
       },
       {
+        "filterValue": "ALLEG966036",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "3/16/2024 12:00:00 AM"
+      },
+      {
+        "value": "0"
+      },
+      {
         "filterValue": "ALLEG966873",
         "value": "2"
       }
@@ -73691,6 +73751,21 @@
       {
         "filterValue": "ALLEG959484",
         "value": "2"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "3/21/2024 12:00:00 AM"
+      },
+      {
+        "value": "0"
+      },
+      {
+        "filterValue": "ALLEG965032",
+        "value": "1"
       }
     ]
   },
@@ -74621,6 +74696,21 @@
       {
         "filterValue": "ALLEG964066",
         "value": "2"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "4/10/2024 12:00:00 AM"
+      },
+      {
+        "value": "0"
+      },
+      {
+        "filterValue": "ALLEG964919",
+        "value": "1"
       }
     ]
   },
@@ -82931,21 +83021,6 @@
       {
         "filterValue": "ALLEG963953",
         "value": "3"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "5/28/2024 12:00:00 AM"
-      },
-      {
-        "value": "0"
-      },
-      {
-        "filterValue": "ALLEG966143",
-        "value": "2"
       }
     ]
   },
