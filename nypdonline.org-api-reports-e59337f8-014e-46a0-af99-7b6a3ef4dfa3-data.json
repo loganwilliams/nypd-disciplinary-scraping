@@ -21111,21 +21111,6 @@
         "value": "6/23/2020 12:00:00 AM"
       },
       {
-        "filterValue": "955494",
-        "value": "2"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "6/23/2020 12:00:00 AM"
-      },
-      {
         "filterValue": "957922",
         "value": "2"
       },
@@ -62861,21 +62846,6 @@
       {
         "filterValue": "ALLEG963074",
         "value": "1"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "8/7/2023 12:00:00 AM"
-      },
-      {
-        "filterValue": "942723",
-        "value": "2"
-      },
-      {
-        "value": "0"
       }
     ]
   },
