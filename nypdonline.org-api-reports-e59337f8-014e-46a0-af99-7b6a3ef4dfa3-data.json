@@ -498,21 +498,6 @@
     "filterKey": "@TAXID",
     "columns": [
       {
-        "value": "5/11/2010 12:00:00 AM"
-      },
-      {
-        "filterValue": "926446",
-        "value": "3"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
         "value": "5/12/2010 12:00:00 AM"
       },
       {
@@ -3848,6 +3833,21 @@
       {
         "filterValue": "946545",
         "value": "2"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "6/30/2014 12:00:00 AM"
+      },
+      {
+        "filterValue": "950941",
+        "value": "3"
       },
       {
         "value": "0"
@@ -22038,6 +22038,21 @@
     "filterKey": "@TAXID",
     "columns": [
       {
+        "value": "1/19/2021 12:00:00 AM"
+      },
+      {
+        "filterValue": "961596",
+        "value": "5"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
         "value": "1/25/2021 12:00:00 AM"
       },
       {
@@ -32966,6 +32981,21 @@
       },
       {
         "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "6/27/2022 12:00:00 AM"
+      },
+      {
+        "value": "0"
+      },
+      {
+        "filterValue": "ALLEG965316",
+        "value": "1"
       }
     ]
   },
@@ -60789,6 +60819,21 @@
         "value": "0"
       },
       {
+        "filterValue": "ALLEG950941",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "6/16/2023 12:00:00 AM"
+      },
+      {
+        "value": "0"
+      },
+      {
         "filterValue": "ALLEG951523",
         "value": "1"
       }
@@ -86711,6 +86756,21 @@
       {
         "filterValue": "ALLEG970018",
         "value": "3"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "8/12/2024 12:00:00 AM"
+      },
+      {
+        "value": "0"
+      },
+      {
+        "filterValue": "ALLEG971849",
+        "value": "1"
       }
     ]
   },
