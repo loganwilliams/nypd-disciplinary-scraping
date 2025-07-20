@@ -12666,21 +12666,6 @@
         "value": "3/23/2017 12:00:00 AM"
       },
       {
-        "filterValue": "924370",
-        "value": "6"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "3/23/2017 12:00:00 AM"
-      },
-      {
         "filterValue": "938579",
         "value": "2"
       },
