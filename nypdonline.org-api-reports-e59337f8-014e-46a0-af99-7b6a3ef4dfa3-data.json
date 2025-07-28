@@ -322,7 +322,7 @@
       },
       {
         "filterValue": "939447",
-        "value": "1"
+        "value": "2"
       },
       {
         "value": "0"
@@ -20183,6 +20183,21 @@
       {
         "filterValue": "953643",
         "value": "2"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "1/15/2020 12:00:00 AM"
+      },
+      {
+        "filterValue": "946886",
+        "value": "3"
       },
       {
         "value": "0"
