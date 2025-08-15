@@ -11406,21 +11406,6 @@
         "value": "11/1/2016 12:00:00 AM"
       },
       {
-        "filterValue": "942515",
-        "value": "2"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "11/1/2016 12:00:00 AM"
-      },
-      {
         "filterValue": "956645",
         "value": "5"
       },
