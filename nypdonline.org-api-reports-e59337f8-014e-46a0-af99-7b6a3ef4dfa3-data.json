@@ -2493,21 +2493,6 @@
     "filterKey": "@TAXID",
     "columns": [
       {
-        "value": "9/23/2011 12:00:00 AM"
-      },
-      {
-        "filterValue": "941342",
-        "value": "3"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
         "value": "9/27/2011 12:00:00 AM"
       },
       {
