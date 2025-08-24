@@ -46818,21 +46818,6 @@
     "filterKey": "@TAXID",
     "columns": [
       {
-        "value": "12/19/2022 12:00:00 AM"
-      },
-      {
-        "filterValue": "957112",
-        "value": "2"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
         "value": "12/20/2022 12:00:00 AM"
       },
       {
