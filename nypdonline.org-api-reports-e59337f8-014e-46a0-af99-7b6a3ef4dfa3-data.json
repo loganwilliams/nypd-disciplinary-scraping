@@ -88224,6 +88224,21 @@
         "value": "0"
       },
       {
+        "filterValue": "ALLEG945496",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "10/2/2024 12:00:00 AM"
+      },
+      {
+        "value": "0"
+      },
+      {
         "filterValue": "ALLEG950086",
         "value": "3"
       }
