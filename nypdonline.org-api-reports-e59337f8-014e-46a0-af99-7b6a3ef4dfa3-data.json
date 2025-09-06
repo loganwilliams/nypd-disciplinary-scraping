@@ -9213,21 +9213,6 @@
     "filterKey": "@TAXID",
     "columns": [
       {
-        "value": "4/6/2016 12:00:00 AM"
-      },
-      {
-        "filterValue": "955072",
-        "value": "1"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
         "value": "4/7/2016 12:00:00 AM"
       },
       {
