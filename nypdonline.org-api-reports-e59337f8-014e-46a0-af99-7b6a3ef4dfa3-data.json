@@ -11298,6 +11298,21 @@
     "filterKey": "@TAXID",
     "columns": [
       {
+        "value": "9/14/2016 12:00:00 AM"
+      },
+      {
+        "filterValue": "896674",
+        "value": "3"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
         "value": "9/23/2016 12:00:00 AM"
       },
       {
@@ -12308,6 +12323,21 @@
       {
         "filterValue": "933865",
         "value": "2"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "2/24/2017 12:00:00 AM"
+      },
+      {
+        "filterValue": "896674",
+        "value": "5"
       },
       {
         "value": "0"
@@ -13898,21 +13928,6 @@
       {
         "filterValue": "959897",
         "value": "1"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "9/6/2017 12:00:00 AM"
-      },
-      {
-        "filterValue": "958328",
-        "value": "3"
       },
       {
         "value": "0"
@@ -16173,21 +16188,6 @@
     "filterKey": "@TAXID",
     "columns": [
       {
-        "value": "7/13/2018 12:00:00 AM"
-      },
-      {
-        "filterValue": "946183",
-        "value": "3"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
         "value": "7/20/2018 12:00:00 AM"
       },
       {
@@ -18006,6 +18006,21 @@
         "value": "3/26/2019 12:00:00 AM"
       },
       {
+        "filterValue": "951461",
+        "value": "6"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "3/26/2019 12:00:00 AM"
+      },
+      {
         "filterValue": "964028",
         "value": "4"
       },
@@ -19368,21 +19383,6 @@
     "filterKey": "@TAXID",
     "columns": [
       {
-        "value": "9/13/2019 12:00:00 AM"
-      },
-      {
-        "filterValue": "945612",
-        "value": "4"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
         "value": "9/17/2019 12:00:00 AM"
       },
       {
@@ -19418,6 +19418,21 @@
       {
         "filterValue": "954489",
         "value": "4"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "9/20/2019 12:00:00 AM"
+      },
+      {
+        "filterValue": "896674",
+        "value": "1"
       },
       {
         "value": "0"
@@ -30051,21 +30066,6 @@
         "value": "5/27/2022 12:00:00 AM"
       },
       {
-        "filterValue": "944862",
-        "value": "4"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "5/27/2022 12:00:00 AM"
-      },
-      {
         "filterValue": "948569",
         "value": "2"
       },
@@ -35335,6 +35335,21 @@
       },
       {
         "filterValue": "ALLEG964411",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "7/23/2022 12:00:00 AM"
+      },
+      {
+        "value": "0"
+      },
+      {
+        "filterValue": "ALLEG967930",
         "value": "1"
       }
     ]
@@ -54873,6 +54888,21 @@
     "filterKey": "@TAXID",
     "columns": [
       {
+        "value": "3/13/2023 12:00:00 AM"
+      },
+      {
+        "filterValue": "974809",
+        "value": "1"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
         "value": "3/15/2023 12:00:00 AM"
       },
       {
@@ -74321,21 +74351,6 @@
       {
         "filterValue": "ALLEG968913",
         "value": "2"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "3/27/2024 12:00:00 AM"
-      },
-      {
-        "filterValue": "946105",
-        "value": "4"
-      },
-      {
-        "value": "0"
       }
     ]
   },
