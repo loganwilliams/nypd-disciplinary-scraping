@@ -336,21 +336,6 @@
         "value": "4/28/2010 12:00:00 AM"
       },
       {
-        "filterValue": "942726",
-        "value": "2"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "4/28/2010 12:00:00 AM"
-      },
-      {
         "filterValue": "944197",
         "value": "3"
       },
@@ -832,21 +817,6 @@
       },
       {
         "filterValue": "928280",
-        "value": "1"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "6/30/2010 12:00:00 AM"
-      },
-      {
-        "filterValue": "942726",
         "value": "1"
       },
       {
@@ -4926,21 +4896,6 @@
         "value": "1/30/2015 12:00:00 AM"
       },
       {
-        "filterValue": "942696",
-        "value": "1"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "1/30/2015 12:00:00 AM"
-      },
-      {
         "filterValue": "943253",
         "value": "1"
       },
@@ -6757,21 +6712,6 @@
       },
       {
         "filterValue": "930557",
-        "value": "1"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "7/14/2015 12:00:00 AM"
-      },
-      {
-        "filterValue": "945224",
         "value": "1"
       },
       {
@@ -37553,21 +37493,6 @@
       {
         "filterValue": "940898",
         "value": "5"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "8/12/2022 12:00:00 AM"
-      },
-      {
-        "filterValue": "942726",
-        "value": "3"
       },
       {
         "value": "0"
@@ -75071,6 +74996,21 @@
       {
         "filterValue": "ALLEG940572",
         "value": "1"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "4/18/2024 12:00:00 AM"
+      },
+      {
+        "value": "0"
+      },
+      {
+        "filterValue": "ALLEG940828",
+        "value": "2"
       }
     ]
   },
