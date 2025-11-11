@@ -3168,6 +3168,21 @@
     "filterKey": "@TAXID",
     "columns": [
       {
+        "value": "3/20/2013 12:00:00 AM"
+      },
+      {
+        "filterValue": "946073",
+        "value": "4"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
         "value": "3/28/2013 12:00:00 AM"
       },
       {
