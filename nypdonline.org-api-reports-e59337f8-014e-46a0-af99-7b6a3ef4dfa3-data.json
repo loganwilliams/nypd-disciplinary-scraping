@@ -68778,21 +68778,6 @@
     "filterKey": "@TAXID",
     "columns": [
       {
-        "value": "12/5/2023 12:00:00 AM"
-      },
-      {
-        "filterValue": "961597",
-        "value": "4"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
         "value": "12/6/2023 12:00:00 AM"
       },
       {
