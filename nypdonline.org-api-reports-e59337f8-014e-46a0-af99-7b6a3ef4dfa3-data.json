@@ -21363,6 +21363,21 @@
     "filterKey": "@TAXID",
     "columns": [
       {
+        "value": "8/4/2020 12:00:00 AM"
+      },
+      {
+        "filterValue": "942041",
+        "value": "1"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
         "value": "8/13/2020 12:00:00 AM"
       },
       {
