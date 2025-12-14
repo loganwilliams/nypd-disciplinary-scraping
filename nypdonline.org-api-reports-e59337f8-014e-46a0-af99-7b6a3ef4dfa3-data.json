@@ -22296,6 +22296,21 @@
         "value": "3/15/2021 12:00:00 AM"
       },
       {
+        "filterValue": "955554",
+        "value": "2"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "3/15/2021 12:00:00 AM"
+      },
+      {
         "filterValue": "960905",
         "value": "2"
       },
