@@ -16548,6 +16548,21 @@
     "filterKey": "@TAXID",
     "columns": [
       {
+        "value": "10/10/2018 12:00:00 AM"
+      },
+      {
+        "filterValue": "955808",
+        "value": "3"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
         "value": "10/11/2018 12:00:00 AM"
       },
       {
@@ -32347,7 +32362,7 @@
       },
       {
         "filterValue": "945378",
-        "value": "1"
+        "value": "2"
       },
       {
         "value": "0"
