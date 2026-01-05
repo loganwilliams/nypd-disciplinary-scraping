@@ -2988,21 +2988,6 @@
     "filterKey": "@TAXID",
     "columns": [
       {
-        "value": "11/19/2012 12:00:00 AM"
-      },
-      {
-        "filterValue": "932380",
-        "value": "4"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
         "value": "11/26/2012 12:00:00 AM"
       },
       {
@@ -25209,6 +25194,21 @@
         "value": "0"
       },
       {
+        "filterValue": "ALLEG957935",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "1/15/2022 12:00:00 AM"
+      },
+      {
+        "value": "0"
+      },
+      {
         "filterValue": "ALLEG958750",
         "value": "1"
       }
@@ -25901,6 +25901,21 @@
       {
         "filterValue": "ALLEG945645",
         "value": "5"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "2/14/2022 12:00:00 AM"
+      },
+      {
+        "value": "0"
+      },
+      {
+        "filterValue": "ALLEG962084",
+        "value": "1"
       }
     ]
   },
@@ -27879,21 +27894,6 @@
         "value": "0"
       },
       {
-        "filterValue": "ALLEG964078",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "4/28/2022 12:00:00 AM"
-      },
-      {
-        "value": "0"
-      },
-      {
         "filterValue": "ALLEG968060",
         "value": "1"
       }
@@ -28376,6 +28376,21 @@
       {
         "filterValue": "ALLEG962002",
         "value": "1"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "5/9/2022 12:00:00 AM"
+      },
+      {
+        "value": "0"
+      },
+      {
+        "filterValue": "ALLEG965647",
+        "value": "2"
       }
     ]
   },
@@ -30336,21 +30351,6 @@
         "value": "5/31/2022 12:00:00 AM"
       },
       {
-        "value": "0"
-      },
-      {
-        "filterValue": "ALLEG966523",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "5/31/2022 12:00:00 AM"
-      },
-      {
         "filterValue": "969930",
         "value": "1"
       },
@@ -30879,21 +30879,6 @@
         "value": "0"
       },
       {
-        "filterValue": "ALLEG964096",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "6/8/2022 12:00:00 AM"
-      },
-      {
-        "value": "0"
-      },
-      {
         "filterValue": "ALLEG964281",
         "value": "1"
       }
@@ -31165,6 +31150,21 @@
       },
       {
         "filterValue": "ALLEG960316",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "6/13/2022 12:00:00 AM"
+      },
+      {
+        "value": "0"
+      },
+      {
+        "filterValue": "ALLEG960376",
         "value": "1"
       }
     ]
@@ -31525,6 +31525,21 @@
       },
       {
         "filterValue": "ALLEG960316",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "6/16/2022 12:00:00 AM"
+      },
+      {
+        "value": "0"
+      },
+      {
+        "filterValue": "ALLEG960849",
         "value": "1"
       }
     ]
@@ -34059,21 +34074,6 @@
         "value": "0"
       },
       {
-        "filterValue": "ALLEG965292",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "7/11/2022 12:00:00 AM"
-      },
-      {
-        "value": "0"
-      },
-      {
         "filterValue": "ALLEG967830",
         "value": "1"
       }
@@ -34209,6 +34209,21 @@
         "value": "0"
       },
       {
+        "filterValue": "ALLEG961077",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "7/13/2022 12:00:00 AM"
+      },
+      {
+        "value": "0"
+      },
+      {
         "filterValue": "ALLEG961613",
         "value": "1"
       }
@@ -34255,21 +34270,6 @@
       },
       {
         "filterValue": "ALLEG961434",
-        "value": "2"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "7/15/2022 12:00:00 AM"
-      },
-      {
-        "value": "0"
-      },
-      {
-        "filterValue": "ALLEG910138",
         "value": "2"
       }
     ]
@@ -35260,7 +35260,7 @@
       },
       {
         "filterValue": "ALLEG963620",
-        "value": "3"
+        "value": "6"
       }
     ]
   },
@@ -39339,21 +39339,6 @@
         "value": "0"
       },
       {
-        "filterValue": "ALLEG932380",
-        "value": "2"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "9/3/2022 12:00:00 AM"
-      },
-      {
-        "value": "0"
-      },
-      {
         "filterValue": "ALLEG947779",
         "value": "1"
       }
@@ -40015,21 +40000,6 @@
       },
       {
         "filterValue": "ALLEG963087",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "9/14/2022 12:00:00 AM"
-      },
-      {
-        "value": "0"
-      },
-      {
-        "filterValue": "ALLEG964853",
         "value": "1"
       }
     ]
@@ -43746,21 +43716,6 @@
         "value": "11/10/2022 12:00:00 AM"
       },
       {
-        "value": "0"
-      },
-      {
-        "filterValue": "ALLEG956581",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "11/10/2022 12:00:00 AM"
-      },
-      {
         "filterValue": "956794",
         "value": "2"
       },
@@ -43915,21 +43870,6 @@
       },
       {
         "filterValue": "ALLEG960808",
-        "value": "2"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "11/13/2022 12:00:00 AM"
-      },
-      {
-        "value": "0"
-      },
-      {
-        "filterValue": "ALLEG963803",
         "value": "2"
       }
     ]
@@ -44304,21 +44244,6 @@
         "value": "0"
       },
       {
-        "filterValue": "ALLEG963842",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "11/17/2022 12:00:00 AM"
-      },
-      {
-        "value": "0"
-      },
-      {
         "filterValue": "ALLEG963996",
         "value": "1"
       }
@@ -44395,6 +44320,21 @@
       },
       {
         "filterValue": "ALLEG966218",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "11/17/2022 12:00:00 AM"
+      },
+      {
+        "value": "0"
+      },
+      {
+        "filterValue": "ALLEG967213",
         "value": "1"
       }
     ]
@@ -45759,6 +45699,21 @@
         "value": "0"
       },
       {
+        "filterValue": "ALLEG961367",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "12/1/2022 12:00:00 AM"
+      },
+      {
+        "value": "0"
+      },
+      {
         "filterValue": "ALLEG961535",
         "value": "1"
       }
@@ -46150,7 +46105,7 @@
       },
       {
         "filterValue": "ALLEG963620",
-        "value": "1"
+        "value": "2"
       }
     ]
   },
@@ -46241,21 +46196,6 @@
       {
         "filterValue": "ALLEG960616",
         "value": "2"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "12/5/2022 12:00:00 AM"
-      },
-      {
-        "value": "0"
-      },
-      {
-        "filterValue": "ALLEG963803",
-        "value": "3"
       }
     ]
   },
@@ -48805,21 +48745,6 @@
       },
       {
         "filterValue": "ALLEG957965",
-        "value": "2"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "1/16/2023 12:00:00 AM"
-      },
-      {
-        "value": "0"
-      },
-      {
-        "filterValue": "ALLEG958168",
         "value": "2"
       }
     ]
@@ -52269,21 +52194,6 @@
         "value": "0"
       },
       {
-        "filterValue": "ALLEG932380",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "2/18/2023 12:00:00 AM"
-      },
-      {
-        "value": "0"
-      },
-      {
         "filterValue": "ALLEG933395",
         "value": "1"
       }
@@ -52989,21 +52899,6 @@
         "value": "0"
       },
       {
-        "filterValue": "ALLEG964078",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "2/23/2023 12:00:00 AM"
-      },
-      {
-        "value": "0"
-      },
-      {
         "filterValue": "ALLEG965582",
         "value": "1"
       }
@@ -53289,21 +53184,6 @@
         "value": "0"
       },
       {
-        "filterValue": "ALLEG964078",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "2/24/2023 12:00:00 AM"
-      },
-      {
-        "value": "0"
-      },
-      {
         "filterValue": "ALLEG968847",
         "value": "1"
       }
@@ -53560,21 +53440,6 @@
       },
       {
         "filterValue": "ALLEG964614",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "2/26/2023 12:00:00 AM"
-      },
-      {
-        "value": "0"
-      },
-      {
-        "filterValue": "ALLEG965980",
         "value": "1"
       }
     ]
@@ -58316,6 +58181,21 @@
       {
         "filterValue": "ALLEG947090",
         "value": "2"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "5/4/2023 12:00:00 AM"
+      },
+      {
+        "value": "0"
+      },
+      {
+        "filterValue": "ALLEG961077",
+        "value": "1"
       }
     ]
   },
@@ -64809,6 +64689,21 @@
         "value": "0"
       },
       {
+        "filterValue": "ALLEG962084",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "9/29/2023 12:00:00 AM"
+      },
+      {
+        "value": "0"
+      },
+      {
         "filterValue": "ALLEG966079",
         "value": "1"
       }
@@ -70809,21 +70704,6 @@
         "value": "0"
       },
       {
-        "filterValue": "ALLEG962555",
-        "value": "3"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "1/22/2024 12:00:00 AM"
-      },
-      {
-        "value": "0"
-      },
-      {
         "filterValue": "ALLEG965405",
         "value": "1"
       }
@@ -73353,21 +73233,6 @@
     "filterKey": "@TAXID",
     "columns": [
       {
-        "value": "3/14/2024 12:00:00 AM"
-      },
-      {
-        "value": "0"
-      },
-      {
-        "filterValue": "ALLEG971180",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
         "value": "3/15/2024 12:00:00 AM"
       },
       {
@@ -73615,21 +73480,6 @@
       },
       {
         "filterValue": "ALLEG959051",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "3/19/2024 12:00:00 AM"
-      },
-      {
-        "value": "0"
-      },
-      {
-        "filterValue": "ALLEG965219",
         "value": "1"
       }
     ]
@@ -75160,21 +75010,6 @@
       },
       {
         "filterValue": "ALLEG962755",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "4/19/2024 12:00:00 AM"
-      },
-      {
-        "value": "0"
-      },
-      {
-        "filterValue": "ALLEG964853",
         "value": "1"
       }
     ]
@@ -78054,21 +77889,6 @@
         "value": "0"
       },
       {
-        "filterValue": "ALLEG958635",
-        "value": "2"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "5/2/2024 12:00:00 AM"
-      },
-      {
-        "value": "0"
-      },
-      {
         "filterValue": "ALLEG958643",
         "value": "1"
       }
@@ -78371,6 +78191,21 @@
       {
         "filterValue": "ALLEG964483",
         "value": "2"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "5/2/2024 12:00:00 AM"
+      },
+      {
+        "value": "0"
+      },
+      {
+        "filterValue": "ALLEG964971",
+        "value": "1"
       }
     ]
   },
@@ -81384,21 +81219,6 @@
         "value": "0"
       },
       {
-        "filterValue": "ALLEG932380",
-        "value": "2"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "5/14/2024 12:00:00 AM"
-      },
-      {
-        "value": "0"
-      },
-      {
         "filterValue": "ALLEG933826",
         "value": "2"
       }
@@ -82106,21 +81926,6 @@
       {
         "filterValue": "ALLEG972105",
         "value": "1"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "5/15/2024 12:00:00 AM"
-      },
-      {
-        "value": "0"
-      },
-      {
-        "filterValue": "ALLEG972612",
-        "value": "2"
       }
     ]
   },
@@ -83664,21 +83469,6 @@
         "value": "0"
       },
       {
-        "filterValue": "ALLEG974716",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "6/5/2024 12:00:00 AM"
-      },
-      {
-        "value": "0"
-      },
-      {
         "filterValue": "ALLEG974766",
         "value": "1"
       }
@@ -84055,21 +83845,6 @@
       },
       {
         "filterValue": "ALLEG969337",
-        "value": "1"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "6/14/2024 12:00:00 AM"
-      },
-      {
-        "value": "0"
-      },
-      {
-        "filterValue": "ALLEG970553",
         "value": "1"
       }
     ]
@@ -84896,21 +84671,6 @@
       {
         "filterValue": "ALLEG960543",
         "value": "1"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "7/3/2024 12:00:00 AM"
-      },
-      {
-        "value": "0"
-      },
-      {
-        "filterValue": "ALLEG968337",
-        "value": "2"
       }
     ]
   },
