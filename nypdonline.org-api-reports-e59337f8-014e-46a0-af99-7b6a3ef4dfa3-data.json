@@ -231,21 +231,6 @@
         "value": "4/23/2010 12:00:00 AM"
       },
       {
-        "filterValue": "939303",
-        "value": "1"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "4/23/2010 12:00:00 AM"
-      },
-      {
         "filterValue": "947279",
         "value": "1"
       },
@@ -4278,21 +4263,6 @@
     "filterKey": "@TAXID",
     "columns": [
       {
-        "value": "10/3/2014 12:00:00 AM"
-      },
-      {
-        "filterValue": "931713",
-        "value": "2"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
         "value": "10/6/2014 12:00:00 AM"
       },
       {
@@ -4686,21 +4656,6 @@
         "value": "12/18/2014 12:00:00 AM"
       },
       {
-        "filterValue": "934963",
-        "value": "1"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "12/18/2014 12:00:00 AM"
-      },
-      {
         "filterValue": "935781",
         "value": "2"
       },
@@ -4942,21 +4897,6 @@
       },
       {
         "filterValue": "943253",
-        "value": "1"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "1/31/2015 12:00:00 AM"
-      },
-      {
-        "filterValue": "931713",
         "value": "1"
       },
       {
@@ -5242,21 +5182,6 @@
       },
       {
         "filterValue": "944810",
-        "value": "2"
-      },
-      {
-        "value": "0"
-      }
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "2/6/2015 12:00:00 AM"
-      },
-      {
-        "filterValue": "946677",
         "value": "2"
       },
       {
@@ -6788,6 +6713,21 @@
       {
         "filterValue": "942643",
         "value": "4"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "7/21/2015 12:00:00 AM"
+      },
+      {
+        "filterValue": "934475",
+        "value": "1"
       },
       {
         "value": "0"
@@ -11853,6 +11793,21 @@
     "filterKey": "@TAXID",
     "columns": [
       {
+        "value": "1/11/2017 12:00:00 AM"
+      },
+      {
+        "filterValue": "954095",
+        "value": "2"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
         "value": "1/12/2017 12:00:00 AM"
       },
       {
@@ -13743,6 +13698,21 @@
     "filterKey": "@TAXID",
     "columns": [
       {
+        "value": "8/11/2017 12:00:00 AM"
+      },
+      {
+        "filterValue": "914434",
+        "value": "2"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
         "value": "8/14/2017 12:00:00 AM"
       },
       {
@@ -14558,6 +14528,21 @@
       {
         "filterValue": "936351",
         "value": "2"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "12/20/2017 12:00:00 AM"
+      },
+      {
+        "filterValue": "956540",
+        "value": "13"
       },
       {
         "value": "0"
@@ -60678,6 +60663,21 @@
     "filterKey": "@TAXID",
     "columns": [
       {
+        "value": "6/15/2023 12:00:00 AM"
+      },
+      {
+        "value": "0"
+      },
+      {
+        "filterValue": "ALLEG962672",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
         "value": "6/16/2023 12:00:00 AM"
       },
       {
@@ -62051,6 +62051,21 @@
       {
         "filterValue": "ALLEG960793",
         "value": "1"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "7/5/2023 12:00:00 AM"
+      },
+      {
+        "value": "0"
+      },
+      {
+        "filterValue": "ALLEG962672",
+        "value": "2"
       }
     ]
   },
