@@ -23388,6 +23388,21 @@
     "filterKey": "@TAXID",
     "columns": [
       {
+        "value": "9/29/2021 12:00:00 AM"
+      },
+      {
+        "filterValue": "953539",
+        "value": "1"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
         "value": "9/30/2021 12:00:00 AM"
       },
       {
