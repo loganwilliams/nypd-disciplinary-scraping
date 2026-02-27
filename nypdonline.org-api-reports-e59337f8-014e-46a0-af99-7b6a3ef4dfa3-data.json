@@ -18678,6 +18678,21 @@
     "filterKey": "@TAXID",
     "columns": [
       {
+        "value": "4/24/2019 12:00:00 AM"
+      },
+      {
+        "filterValue": "942329",
+        "value": "2"
+      },
+      {
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
         "value": "4/25/2019 12:00:00 AM"
       },
       {
