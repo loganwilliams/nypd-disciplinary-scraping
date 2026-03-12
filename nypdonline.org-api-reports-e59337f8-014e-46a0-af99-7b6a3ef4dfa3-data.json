@@ -1865,19 +1865,6 @@
         "value": "9/30/2010 12:00:00 AM"
       },
       {
-        "filterValue": "932131",
-        "value": "1"
-      },
-      {}
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "9/30/2010 12:00:00 AM"
-      },
-      {
         "filterValue": "936462",
         "value": "2"
       },
@@ -2725,19 +2712,6 @@
       {
         "filterValue": "936244",
         "value": "2"
-      },
-      {}
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "3/16/2011 12:00:00 AM"
-      },
-      {
-        "filterValue": "934005",
-        "value": "1"
       },
       {}
     ]
@@ -23654,19 +23628,6 @@
       },
       {
         "filterValue": "939843",
-        "value": "3"
-      },
-      {}
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "7/1/2019 12:00:00 AM"
-      },
-      {
-        "filterValue": "963798",
         "value": "3"
       },
       {}
