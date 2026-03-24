@@ -2151,19 +2151,6 @@
         "value": "11/17/2010 12:00:00 AM"
       },
       {
-        "filterValue": "928341",
-        "value": "3"
-      },
-      {}
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "11/17/2010 12:00:00 AM"
-      },
-      {
         "filterValue": "928381",
         "value": "3"
       },
