@@ -3383,19 +3383,6 @@
     "filterKey": "@TAXID",
     "columns": [
       {
-        "value": "10/5/2011 12:00:00 AM"
-      },
-      {
-        "filterValue": "944600",
-        "value": "5"
-      },
-      {}
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
         "value": "10/6/2011 12:00:00 AM"
       },
       {
@@ -5559,19 +5546,6 @@
       {
         "filterValue": "937408",
         "value": "4"
-      },
-      {}
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "8/29/2014 12:00:00 AM"
-      },
-      {
-        "filterValue": "939474",
-        "value": "1"
       },
       {}
     ]
