@@ -22496,6 +22496,19 @@
         "value": "3/29/2019 12:00:00 AM"
       },
       {
+        "filterValue": "956922",
+        "value": "3"
+      },
+      {}
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "3/29/2019 12:00:00 AM"
+      },
+      {
         "filterValue": "957501",
         "value": "2"
       },
@@ -30948,6 +30961,19 @@
       {
         "filterValue": "947035",
         "value": "1"
+      },
+      {}
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "5/29/2022 12:00:00 AM"
+      },
+      {
+        "filterValue": "955457",
+        "value": "2"
       },
       {}
     ]
