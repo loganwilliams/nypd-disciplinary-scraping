@@ -35363,19 +35363,6 @@
     "filterKey": "@TAXID",
     "columns": [
       {
-        "value": "5/5/2023 12:00:00 AM"
-      },
-      {
-        "filterValue": "960690",
-        "value": "4"
-      },
-      {}
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
         "value": "5/10/2023 12:00:00 AM"
       },
       {
