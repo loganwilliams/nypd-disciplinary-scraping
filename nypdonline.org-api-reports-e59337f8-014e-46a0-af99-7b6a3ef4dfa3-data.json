@@ -7868,19 +7868,6 @@
     "filterKey": "@TAXID",
     "columns": [
       {
-        "value": "2/24/2015 12:00:00 AM"
-      },
-      {
-        "filterValue": "945054",
-        "value": "4"
-      },
-      {}
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
         "value": "2/25/2015 12:00:00 AM"
       },
       {
@@ -12980,8 +12967,21 @@
         "value": "6/6/2016 12:00:00 AM"
       },
       {
-        "filterValue": "951047",
+        "filterValue": "950143",
         "value": "2"
+      },
+      {}
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "6/6/2016 12:00:00 AM"
+      },
+      {
+        "filterValue": "951047",
+        "value": "4"
       },
       {}
     ]
@@ -20244,6 +20244,19 @@
     "filterKey": "@TAXID",
     "columns": [
       {
+        "value": "8/21/2018 12:00:00 AM"
+      },
+      {
+        "filterValue": "959824",
+        "value": "2"
+      },
+      {}
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
         "value": "8/28/2018 12:00:00 AM"
       },
       {
@@ -20366,6 +20379,19 @@
       {
         "filterValue": "945925",
         "value": "4"
+      },
+      {}
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "10/3/2018 12:00:00 AM"
+      },
+      {
+        "filterValue": "946394",
+        "value": "6"
       },
       {}
     ]
@@ -28811,6 +28837,19 @@
     "filterKey": "@TAXID",
     "columns": [
       {
+        "value": "6/21/2021 12:00:00 AM"
+      },
+      {
+        "filterValue": "950580",
+        "value": "2"
+      },
+      {}
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
         "value": "6/30/2021 12:00:00 AM"
       },
       {
@@ -36758,6 +36797,19 @@
       },
       {
         "filterValue": "952504",
+        "value": "2"
+      },
+      {}
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "8/7/2024 12:00:00 AM"
+      },
+      {
+        "filterValue": "940520",
         "value": "2"
       },
       {}
