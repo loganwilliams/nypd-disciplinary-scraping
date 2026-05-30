@@ -20140,19 +20140,6 @@
     "filterKey": "@TAXID",
     "columns": [
       {
-        "value": "8/6/2018 12:00:00 AM"
-      },
-      {
-        "filterValue": "955377",
-        "value": "2"
-      },
-      {}
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
         "value": "8/7/2018 12:00:00 AM"
       },
       {
