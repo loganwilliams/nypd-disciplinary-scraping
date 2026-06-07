@@ -35873,19 +35873,6 @@
         "value": "8/25/2023 12:00:00 AM"
       },
       {
-        "filterValue": "965435",
-        "value": "1"
-      },
-      {}
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "8/25/2023 12:00:00 AM"
-      },
-      {
         "filterValue": "966842",
         "value": "1"
       },
