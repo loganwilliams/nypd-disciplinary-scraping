@@ -27654,6 +27654,19 @@
     "filterKey": "@TAXID",
     "columns": [
       {
+        "value": "12/8/2020 12:00:00 AM"
+      },
+      {
+        "filterValue": "966198",
+        "value": "2"
+      },
+      {}
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
         "value": "12/14/2020 12:00:00 AM"
       },
       {
