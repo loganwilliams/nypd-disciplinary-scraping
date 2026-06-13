@@ -26539,6 +26539,19 @@
         "value": "7/7/2020 12:00:00 AM"
       },
       {
+        "filterValue": "940281",
+        "value": "2"
+      },
+      {}
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "7/7/2020 12:00:00 AM"
+      },
+      {
         "filterValue": "945001",
         "value": "1"
       },
