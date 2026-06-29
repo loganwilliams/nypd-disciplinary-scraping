@@ -1862,19 +1862,6 @@
     "filterKey": "@TAXID",
     "columns": [
       {
-        "value": "2/3/2014 12:00:00 AM"
-      },
-      {
-        "filterValue": "933110",
-        "value": "2"
-      },
-      {}
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
         "value": "2/5/2014 12:00:00 AM"
       },
       {
@@ -3777,6 +3764,19 @@
       },
       {
         "filterValue": "951242",
+        "value": "1"
+      },
+      {}
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "5/12/2015 12:00:00 AM"
+      },
+      {
+        "filterValue": "950250",
         "value": "1"
       },
       {}
@@ -15798,6 +15798,19 @@
     "filterKey": "@TAXID",
     "columns": [
       {
+        "value": "4/8/2022 12:00:00 AM"
+      },
+      {
+        "filterValue": "949938",
+        "value": "3"
+      },
+      {}
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
         "value": "4/11/2022 12:00:00 AM"
       },
       {
@@ -15958,7 +15971,7 @@
       },
       {
         "filterValue": "961048",
-        "value": "8"
+        "value": "4"
       },
       {}
     ]
