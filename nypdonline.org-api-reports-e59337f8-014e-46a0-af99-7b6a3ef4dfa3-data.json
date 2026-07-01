@@ -1138,7 +1138,7 @@
       },
       {
         "filterValue": "947564",
-        "value": "2"
+        "value": "4"
       },
       {}
     ]
@@ -2906,6 +2906,19 @@
       },
       {
         "filterValue": "944868",
+        "value": "1"
+      },
+      {}
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "1/31/2015 12:00:00 AM"
+      },
+      {
+        "filterValue": "948045",
         "value": "1"
       },
       {}
@@ -6272,19 +6285,6 @@
         "value": "5/27/2016 12:00:00 AM"
       },
       {
-        "filterValue": "939456",
-        "value": "1"
-      },
-      {}
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "5/27/2016 12:00:00 AM"
-      },
-      {
         "filterValue": "943429",
         "value": "1"
       },
@@ -7860,19 +7860,6 @@
       {
         "filterValue": "950163",
         "value": "1"
-      },
-      {}
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "4/6/2017 12:00:00 AM"
-      },
-      {
-        "filterValue": "934716",
-        "value": "2"
       },
       {}
     ]
@@ -12340,19 +12327,6 @@
     "filterKey": "@TAXID",
     "columns": [
       {
-        "value": "7/29/2019 12:00:00 AM"
-      },
-      {
-        "filterValue": "925017",
-        "value": "5"
-      },
-      {}
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
         "value": "7/30/2019 12:00:00 AM"
       },
       {
@@ -14061,19 +14035,6 @@
       {
         "filterValue": "966402",
         "value": "3"
-      },
-      {}
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "10/7/2020 12:00:00 AM"
-      },
-      {
-        "filterValue": "948773",
-        "value": "5"
       },
       {}
     ]
@@ -15841,19 +15802,6 @@
       },
       {
         "filterValue": "942838",
-        "value": "1"
-      },
-      {}
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "4/19/2022 12:00:00 AM"
-      },
-      {
-        "filterValue": "962538",
         "value": "1"
       },
       {}
