@@ -16045,6 +16045,19 @@
     "filterKey": "@TAXID",
     "columns": [
       {
+        "value": "6/13/2022 12:00:00 AM"
+      },
+      {
+        "filterValue": "957452",
+        "value": "5"
+      },
+      {}
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
         "value": "6/14/2022 12:00:00 AM"
       },
       {
@@ -19767,7 +19780,7 @@
       },
       {
         "filterValue": "953298",
-        "value": "2"
+        "value": "4"
       },
       {}
     ]
