@@ -4985,19 +4985,6 @@
         "value": "2/3/2016 12:00:00 AM"
       },
       {
-        "filterValue": "931105",
-        "value": "3"
-      },
-      {}
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "2/3/2016 12:00:00 AM"
-      },
-      {
         "filterValue": "940477",
         "value": "1"
       },
@@ -6737,19 +6724,6 @@
     "filterKey": "@TAXID",
     "columns": [
       {
-        "value": "8/22/2016 12:00:00 AM"
-      },
-      {
-        "filterValue": "941762",
-        "value": "3"
-      },
-      {}
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
         "value": "8/25/2016 12:00:00 AM"
       },
       {
@@ -7690,19 +7664,6 @@
       },
       {
         "filterValue": "954468",
-        "value": "2"
-      },
-      {}
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "3/15/2017 12:00:00 AM"
-      },
-      {
-        "filterValue": "942439",
         "value": "2"
       },
       {}
@@ -11251,19 +11212,6 @@
         "value": "3/20/2019 12:00:00 AM"
       },
       {
-        "filterValue": "928567",
-        "value": "5"
-      },
-      {}
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "3/20/2019 12:00:00 AM"
-      },
-      {
         "filterValue": "933274",
         "value": "7"
       },
@@ -11968,19 +11916,6 @@
       {
         "filterValue": "947270",
         "value": "4"
-      },
-      {}
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "6/2/2019 12:00:00 AM"
-      },
-      {
-        "filterValue": "941935",
-        "value": "3"
       },
       {}
     ]
@@ -13944,6 +13879,19 @@
       {
         "filterValue": "966402",
         "value": "3"
+      },
+      {}
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "10/7/2020 12:00:00 AM"
+      },
+      {
+        "filterValue": "948773",
+        "value": "5"
       },
       {}
     ]
