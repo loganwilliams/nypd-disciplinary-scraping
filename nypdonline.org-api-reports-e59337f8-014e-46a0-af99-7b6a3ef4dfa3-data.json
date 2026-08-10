@@ -17683,19 +17683,6 @@
     "filterKey": "@TAXID",
     "columns": [
       {
-        "value": "12/28/2022 12:00:00 AM"
-      },
-      {
-        "filterValue": "941364",
-        "value": "5"
-      },
-      {}
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
         "value": "12/29/2022 12:00:00 AM"
       },
       {
