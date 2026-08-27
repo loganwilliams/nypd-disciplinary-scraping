@@ -3945,6 +3945,19 @@
         "value": "7/31/2015 12:00:00 AM"
       },
       {
+        "filterValue": "944298",
+        "value": "1"
+      },
+      {}
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "7/31/2015 12:00:00 AM"
+      },
+      {
         "filterValue": "944664",
         "value": "1"
       },
@@ -10524,19 +10537,6 @@
       },
       {
         "filterValue": "947864",
-        "value": "2"
-      },
-      {}
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "2/7/2019 12:00:00 AM"
-      },
-      {
-        "filterValue": "931625",
         "value": "2"
       },
       {}
