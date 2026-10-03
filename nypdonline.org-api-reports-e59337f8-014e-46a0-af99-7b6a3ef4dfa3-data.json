@@ -1368,19 +1368,6 @@
     "filterKey": "@TAXID",
     "columns": [
       {
-        "value": "1/19/2012 12:00:00 AM"
-      },
-      {
-        "filterValue": "936799",
-        "value": "1"
-      },
-      {}
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
         "value": "4/6/2012 12:00:00 AM"
       },
       {
@@ -3591,19 +3578,6 @@
     "filterKey": "@TAXID",
     "columns": [
       {
-        "value": "5/15/2015 12:00:00 AM"
-      },
-      {
-        "filterValue": "952621",
-        "value": "1"
-      },
-      {}
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
         "value": "5/18/2015 12:00:00 AM"
       },
       {
@@ -3622,19 +3596,6 @@
       {
         "filterValue": "954662",
         "value": "4"
-      },
-      {}
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "5/19/2015 12:00:00 AM"
-      },
-      {
-        "filterValue": "952621",
-        "value": "3"
       },
       {}
     ]
@@ -14186,6 +14147,19 @@
     "filterKey": "@TAXID",
     "columns": [
       {
+        "value": "7/30/2021 12:00:00 AM"
+      },
+      {
+        "filterValue": "943457",
+        "value": "4"
+      },
+      {}
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
         "value": "8/2/2021 12:00:00 AM"
       },
       {
@@ -17127,6 +17101,19 @@
         "value": "12/9/2022 12:00:00 AM"
       },
       {
+        "filterValue": "961020",
+        "value": "6"
+      },
+      {}
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "12/9/2022 12:00:00 AM"
+      },
+      {
         "filterValue": "962386",
         "value": "2"
       },
@@ -17168,19 +17155,6 @@
       {
         "filterValue": "958131",
         "value": "1"
-      },
-      {}
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "12/23/2022 12:00:00 AM"
-      },
-      {
-        "filterValue": "948732",
-        "value": "12"
       },
       {}
     ]
@@ -17284,19 +17258,6 @@
       },
       {
         "filterValue": "953592",
-        "value": "2"
-      },
-      {}
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
-        "value": "1/9/2023 12:00:00 AM"
-      },
-      {
-        "filterValue": "957900",
         "value": "2"
       },
       {}
