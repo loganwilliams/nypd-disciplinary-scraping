@@ -6659,19 +6659,6 @@
     "filterKey": "@TAXID",
     "columns": [
       {
-        "value": "12/19/2016 12:00:00 AM"
-      },
-      {
-        "filterValue": "961303",
-        "value": "4"
-      },
-      {}
-    ]
-  },
-  {
-    "filterKey": "@TAXID",
-    "columns": [
-      {
         "value": "12/27/2016 12:00:00 AM"
       },
       {
