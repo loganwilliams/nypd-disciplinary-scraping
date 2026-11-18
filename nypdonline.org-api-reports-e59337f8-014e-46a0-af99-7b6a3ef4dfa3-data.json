@@ -5099,6 +5099,19 @@
     "filterKey": "@TAXID",
     "columns": [
       {
+        "value": "3/16/2016 12:00:00 AM"
+      },
+      {
+        "filterValue": "949885",
+        "value": "1"
+      },
+      {}
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
         "value": "3/17/2016 12:00:00 AM"
       },
       {
@@ -9225,6 +9238,19 @@
       {
         "filterValue": "938940",
         "value": "2"
+      },
+      {}
+    ]
+  },
+  {
+    "filterKey": "@TAXID",
+    "columns": [
+      {
+        "value": "6/7/2018 12:00:00 AM"
+      },
+      {
+        "filterValue": "948606",
+        "value": "3"
       },
       {}
     ]
